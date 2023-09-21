@@ -1,0 +1,38 @@
+.hour {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    margin-right: auto;
+    margin-left: 5px;
+    padding: 10px 20px;
+    background-color: #95ddef;
+    border-radius: 9px;
+    width : auto;
+}
+
+.up-card {
+    display: flex;
+    justify-content: space-between;
+    width: 45%;
+    margin-right: 10px;
+    
+    
+}
+
+.up-card div {
+    width: 32%;
+    text-align: right;
+    margin-right: 1px;
+    margin-left : 9px;
+    display: flex;
+      
+}
+
+.up-card>div:first-child {
+    margin-right: 10px;
+}
+
+.up-card>div:third-child {
+    margin-right: 10px;
+}

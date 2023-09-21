@@ -1,0 +1,32 @@
+/* Day.css */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+.day-hours {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #070707;
+  border-bottom: 1px solid #f8eeee;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.day {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #070707;
+  margin-bottom: 8px;
+}
+
+.unit {
+  font-size: 1.2rem;
+  color: #f00a57;
+}
+
+.card-hour {
+  margin-top: 10px;
+}

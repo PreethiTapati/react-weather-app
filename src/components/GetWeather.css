@@ -1,0 +1,11 @@
+.card {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+   background: url('/assets/images/image.png') center/cover no-repeat fixed;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
